@@ -1,0 +1,14 @@
+# Environment Vars File
+.env
+
+# Training Videos
+Video1.mp4
+Video2.mp4
+Video3.mp4
+
+# Trained Models
+modelTrained_EigenFace.xml
+modelTrained_LBPH.xml
+
+# Person Folders
+Jay_Rivera/
